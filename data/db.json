@@ -29,7 +29,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Jay Garrick",
       "first_appearance": "Flash Comics #1",
-      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
+      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen",
+      "alt_img": "https://upload.wikimedia.org/wikipedia/en/e/ed/The_Flash_Family.jpg"
     },
     {
       "id": "dc-green",
@@ -166,6 +167,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "2NTFObu",
+      "superhero": "Aragorn",
+      "publisher": "DC Comica",
+      "alter_ego": "Strider",
+      "first_appearance": "Poni Pizador",
+      "characters": "Aragorn",
+      "alt_img": "https://www.collectiblesdirect.co.uk/image/cache/data/l1/Lord%20of%20the%20Rings%20Statue%20Aragorn%20as%20Strider/lord-of-the-rings-statue-aragorn-as-strider-37-cm-1592-600x600.jpg"
     }
   ]
 }
